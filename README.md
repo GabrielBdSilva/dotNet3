@@ -1,12 +1,12 @@
 ### integrantes da equipe:<br>
 
-|Rm|Nome|
-|--|--|
-RM99503|Arthur Koga
-RM552254|Gabriel Benjamim
-RM550684|Henry Ribeiro
-RM99538|Murilo José
-RM98021|Pedro Sena
+|Rm|Nome|Turma
+|--|--|--|
+RM99503|Arthur Koga|TDSA
+RM552254|Gabriel Benjamim|TDSA
+RM550684|Henry Ribeiro|TDSR
+RM99538|Murilo José|TDSR
+RM98021|Pedro Sena|TDSA
 
  Sprint 3 .Net
 #### Uma Api com estrutura de um e-commerce
