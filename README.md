@@ -1,4 +1,14 @@
- Sprint 4 .Net
+### integrantes da equipe:<br>
+
+|Rm|Nome|
+|--|--|
+RM99503|Arthur Koga
+RM552254|Gabriel Benjamim
+RM550684|Henry Ribeiro
+RM99538|Murilo José
+RM98021|Pedro Sena
+
+ Sprint 3 .Net
 #### Uma Api com estrutura de um e-commerce
 
 ## Arquitetura da API 
